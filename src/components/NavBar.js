@@ -20,7 +20,7 @@ export default function NavBar() {
   return (
     <div className="px-3 py-2 w-full m-auto flex justify-between items-center">
       <Link href={"/"}>
-        <Image src="/logo_transparent.png" width={30} height={30} alt="" />
+        <Image src="/logo_transparent.jpg" width={50} height={50} alt="" />
       </Link>
       <div className="hidden md:flex items-center">
         <Button variant="link">
