@@ -25,9 +25,9 @@ export const projectsList = [
   },
   {
     id: 4,
-    link: "https://www.gettruepower.in/",
-    img: "/enercent.png",
-    title: "True Power by Jio Things",
+    link: "https://hospital-appointment-flame.vercel.app/",
+    img: "/appointment.png",
+    title: "Prescripto-Book Appointment",
     description:
       "Contributed to the development and implementation of a centralized website and platform for improving the efficiency, transparency, and collaboration of production processes. This involved data management and real-time monitoring capabilities.",
   },
